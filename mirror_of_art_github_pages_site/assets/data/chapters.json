@@ -1,0 +1,422 @@
+[
+  {
+    "order": 1,
+    "essay": "The Salon of 1845",
+    "title": "A Few Words of Introduction",
+    "slug": "01-a-few-words-of-introduction",
+    "book_start": 1,
+    "book_end": 2,
+    "pdf_start": 29,
+    "pdf_end": 30
+  },
+  {
+    "order": 2,
+    "essay": "The Salon of 1845",
+    "title": "History-Paintings",
+    "slug": "02-history-paintings",
+    "book_start": 3,
+    "book_end": 20,
+    "pdf_start": 31,
+    "pdf_end": 48
+  },
+  {
+    "order": 3,
+    "essay": "The Salon of 1845",
+    "title": "Portraits",
+    "slug": "03-portraits",
+    "book_start": 21,
+    "book_end": 23,
+    "pdf_start": 49,
+    "pdf_end": 51
+  },
+  {
+    "order": 4,
+    "essay": "The Salon of 1845",
+    "title": "Genre-Paintings",
+    "slug": "04-genre-paintings",
+    "book_start": 24,
+    "book_end": 27,
+    "pdf_start": 52,
+    "pdf_end": 55
+  },
+  {
+    "order": 5,
+    "essay": "The Salon of 1845",
+    "title": "Landscapes",
+    "slug": "05-landscapes",
+    "book_start": 28,
+    "book_end": 32,
+    "pdf_start": 56,
+    "pdf_end": 60
+  },
+  {
+    "order": 6,
+    "essay": "The Salon of 1845",
+    "title": "Drawings and Engravings",
+    "slug": "06-drawings-and-engravings",
+    "book_start": 33,
+    "book_end": 34,
+    "pdf_start": 61,
+    "pdf_end": 62
+  },
+  {
+    "order": 7,
+    "essay": "The Salon of 1845",
+    "title": "Sculpture",
+    "slug": "07-sculpture",
+    "book_start": 35,
+    "book_end": 37,
+    "pdf_start": 63,
+    "pdf_end": 65
+  },
+  {
+    "order": 8,
+    "essay": "The Salon of 1846",
+    "title": "To the Bourgeois",
+    "slug": "08-to-the-bourgeois",
+    "book_start": 38,
+    "book_end": 40,
+    "pdf_start": 66,
+    "pdf_end": 68
+  },
+  {
+    "order": 9,
+    "essay": "The Salon of 1846",
+    "title": "What Is the Good of Criticism?",
+    "slug": "09-what-is-the-good-of-criticism",
+    "book_start": 41,
+    "book_end": 42,
+    "pdf_start": 69,
+    "pdf_end": 70
+  },
+  {
+    "order": 10,
+    "essay": "The Salon of 1846",
+    "title": "What Is Romanticism?",
+    "slug": "10-what-is-romanticism",
+    "book_start": 43,
+    "book_end": 44,
+    "pdf_start": 71,
+    "pdf_end": 72
+  },
+  {
+    "order": 11,
+    "essay": "The Salon of 1846",
+    "title": "On Colour",
+    "slug": "11-on-colour",
+    "book_start": 45,
+    "book_end": 50,
+    "pdf_start": 73,
+    "pdf_end": 78
+  },
+  {
+    "order": 12,
+    "essay": "The Salon of 1846",
+    "title": "Eugène Delacroix",
+    "slug": "12-eugene-delacroix",
+    "book_start": 51,
+    "book_end": 68,
+    "pdf_start": 79,
+    "pdf_end": 96
+  },
+  {
+    "order": 13,
+    "essay": "The Salon of 1846",
+    "title": "On Erotic Subjects in Art, and on M. Tassaert",
+    "slug": "13-on-erotic-subjects-in-art-and-on-m-tassaert",
+    "book_start": 69,
+    "book_end": 72,
+    "pdf_start": 97,
+    "pdf_end": 100
+  },
+  {
+    "order": 14,
+    "essay": "The Salon of 1846",
+    "title": "On Some Colourists",
+    "slug": "14-on-some-colourists",
+    "book_start": 73,
+    "book_end": 82,
+    "pdf_start": 101,
+    "pdf_end": 110
+  },
+  {
+    "order": 15,
+    "essay": "The Salon of 1846",
+    "title": "On the Ideal and the Model",
+    "slug": "15-on-the-ideal-and-the-model",
+    "book_start": 83,
+    "book_end": 85,
+    "pdf_start": 111,
+    "pdf_end": 113
+  },
+  {
+    "order": 16,
+    "essay": "The Salon of 1846",
+    "title": "Some Draughtsmen",
+    "slug": "16-some-draughtsmen",
+    "book_start": 86,
+    "book_end": 92,
+    "pdf_start": 114,
+    "pdf_end": 120
+  },
+  {
+    "order": 17,
+    "essay": "The Salon of 1846",
+    "title": "On Portraiture",
+    "slug": "17-on-portraiture",
+    "book_start": 93,
+    "book_end": 96,
+    "pdf_start": 121,
+    "pdf_end": 124
+  },
+  {
+    "order": 18,
+    "essay": "The Salon of 1846",
+    "title": "The “Chic” and the “Poncif”",
+    "slug": "18-the-chic-and-the-poncif",
+    "book_start": 97,
+    "book_end": 98,
+    "pdf_start": 125,
+    "pdf_end": 126
+  },
+  {
+    "order": 19,
+    "essay": "The Salon of 1846",
+    "title": "M. Horace Vernet",
+    "slug": "19-m-horace-vernet",
+    "book_start": 99,
+    "book_end": 102,
+    "pdf_start": 127,
+    "pdf_end": 130
+  },
+  {
+    "order": 20,
+    "essay": "The Salon of 1846",
+    "title": "On Eclecticism and Doubt",
+    "slug": "20-on-eclecticism-and-doubt",
+    "book_start": 103,
+    "book_end": 104,
+    "pdf_start": 131,
+    "pdf_end": 132
+  },
+  {
+    "order": 21,
+    "essay": "The Salon of 1846",
+    "title": "On M. Ary Scheffer and the Apes of Sentiment",
+    "slug": "21-on-m-ary-scheffer-and-the-apes-of-sentiment",
+    "book_start": 105,
+    "book_end": 108,
+    "pdf_start": 133,
+    "pdf_end": 136
+  },
+  {
+    "order": 22,
+    "essay": "The Salon of 1846",
+    "title": "On Some Doubters",
+    "slug": "22-on-some-doubters",
+    "book_start": 109,
+    "book_end": 110,
+    "pdf_start": 137,
+    "pdf_end": 138
+  },
+  {
+    "order": 23,
+    "essay": "The Salon of 1846",
+    "title": "On Landscape",
+    "slug": "23-on-landscape",
+    "book_start": 111,
+    "book_end": 118,
+    "pdf_start": 139,
+    "pdf_end": 146
+  },
+  {
+    "order": 24,
+    "essay": "The Salon of 1846",
+    "title": "Why Sculpture Is Tiresome",
+    "slug": "24-why-sculpture-is-tiresome",
+    "book_start": 119,
+    "book_end": 122,
+    "pdf_start": 147,
+    "pdf_end": 150
+  },
+  {
+    "order": 25,
+    "essay": "The Salon of 1846",
+    "title": "On Schools and Journeymen",
+    "slug": "25-on-schools-and-journeymen",
+    "book_start": 123,
+    "book_end": 126,
+    "pdf_start": 151,
+    "pdf_end": 154
+  },
+  {
+    "order": 26,
+    "essay": "The Salon of 1846",
+    "title": "On the Heroism of Modern Life",
+    "slug": "26-on-the-heroism-of-modern-life",
+    "book_start": 127,
+    "book_end": 130,
+    "pdf_start": 155,
+    "pdf_end": 158
+  },
+  {
+    "order": 27,
+    "essay": "On the Essence of Laughter",
+    "title": "On the Essence of Laughter, in General, and on the Comic in the Plastic Arts",
+    "slug": "27-on-the-essence-of-laughter-in-general-and-on-the-comic-in-the-plastic-arts",
+    "book_start": 131,
+    "book_end": 153,
+    "pdf_start": 159,
+    "pdf_end": 181
+  },
+  {
+    "order": 28,
+    "essay": "Some French Caricaturists",
+    "title": "Some French Caricaturists",
+    "slug": "28-some-french-caricaturists",
+    "book_start": 154,
+    "book_end": 242,
+    "pdf_start": 182,
+    "pdf_end": 270
+  },
+  {
+    "order": 29,
+    "essay": "Some Foreign Caricaturists",
+    "title": "Some Foreign Caricaturists",
+    "slug": "29-some-foreign-caricaturists",
+    "book_start": 243,
+    "book_end": 255,
+    "pdf_start": 271,
+    "pdf_end": 283
+  },
+  {
+    "order": 30,
+    "essay": "The Exposition Universelle, 1855",
+    "title": "Critical Method",
+    "slug": "30-critical-method",
+    "book_start": 256,
+    "book_end": 266,
+    "pdf_start": 284,
+    "pdf_end": 294
+  },
+  {
+    "order": 31,
+    "essay": "The Exposition Universelle, 1855",
+    "title": "Ingres",
+    "slug": "31-ingres",
+    "book_start": 267,
+    "book_end": 274,
+    "pdf_start": 295,
+    "pdf_end": 302
+  },
+  {
+    "order": 32,
+    "essay": "The Exposition Universelle, 1855",
+    "title": "Eugène Delacroix",
+    "slug": "32-eugene-delacroix",
+    "book_start": 275,
+    "book_end": 283,
+    "pdf_start": 303,
+    "pdf_end": 311
+  },
+  {
+    "order": 33,
+    "essay": "The Salon of 1859",
+    "title": "The Modern Artist",
+    "slug": "33-the-modern-artist",
+    "book_start": 284,
+    "book_end": 290,
+    "pdf_start": 312,
+    "pdf_end": 318
+  },
+  {
+    "order": 34,
+    "essay": "The Salon of 1859",
+    "title": "The Modern Public and Photography",
+    "slug": "34-the-modern-public-and-photography",
+    "book_start": 291,
+    "book_end": 296,
+    "pdf_start": 319,
+    "pdf_end": 324
+  },
+  {
+    "order": 35,
+    "essay": "The Salon of 1859",
+    "title": "The Queen of the Faculties",
+    "slug": "35-the-queen-of-the-faculties",
+    "book_start": 297,
+    "book_end": 302,
+    "pdf_start": 325,
+    "pdf_end": 330
+  },
+  {
+    "order": 36,
+    "essay": "The Salon of 1859",
+    "title": "The Governance of the Imagination",
+    "slug": "36-the-governance-of-the-imagination",
+    "book_start": 303,
+    "book_end": 306,
+    "pdf_start": 331,
+    "pdf_end": 334
+  },
+  {
+    "order": 37,
+    "essay": "The Salon of 1859",
+    "title": "Religion, History, Fantasy",
+    "slug": "37-religion-history-fantasy",
+    "book_start": 307,
+    "book_end": 336,
+    "pdf_start": 335,
+    "pdf_end": 364
+  },
+  {
+    "order": 38,
+    "essay": "The Salon of 1859",
+    "title": "Portraiture",
+    "slug": "38-portraiture",
+    "book_start": 337,
+    "book_end": 342,
+    "pdf_start": 365,
+    "pdf_end": 370
+  },
+  {
+    "order": 39,
+    "essay": "The Salon of 1859",
+    "title": "Landscape",
+    "slug": "39-landscape",
+    "book_start": 343,
+    "book_end": 352,
+    "pdf_start": 371,
+    "pdf_end": 380
+  },
+  {
+    "order": 40,
+    "essay": "The Salon of 1859",
+    "title": "Sculpture",
+    "slug": "40-sculpture",
+    "book_start": 353,
+    "book_end": 366,
+    "pdf_start": 381,
+    "pdf_end": 394
+  },
+  {
+    "order": 41,
+    "essay": "The Salon of 1859",
+    "title": "Envoi",
+    "slug": "41-envoi",
+    "book_start": 367,
+    "book_end": 369,
+    "pdf_start": 395,
+    "pdf_end": 397
+  },
+  {
+    "order": 42,
+    "essay": "The Life and Work of Eugène Delacroix",
+    "title": "The Life and Work of Eugène Delacroix",
+    "slug": "42-the-life-and-work-of-eugene-delacroix",
+    "book_start": 370,
+    "book_end": 402,
+    "pdf_start": 398,
+    "pdf_end": 430
+  }
+]

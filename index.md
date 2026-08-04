@@ -11,73 +11,469 @@ An experimental illustrated edition that restores the paintings, prints, sculptu
 
 > **Editorial status:** The text is an OCR-derived working transcription. Each subsection should be proofread against the scan before publication.
 
-<div class="start-link"><a href="{{ '/chapters/01-a-few-words-of-introduction/' | relative_url }}">Begin reading →</a></div>
 
-## Contents
+## Table of Contents
 
-### The Salon of 1845
+1. [A Few Words of Introduction](#01-introduction)
+2. [History-Paintings](#02-history)
+3. [Portraits](#03-portraits)
+4. [Genre-Paintings](#04-genre)
+5. [Landscapes](#05-landscapes)
+6. [Drawings and Engravings](#06-drawings)
+7. [Sculpture](#07-sculpture)
+8. [To the Bourgeois](#08-bourgeois)
+9. [What Is the Good of Criticism?](#09-criticism)
+10. [What Is Romanticism?](#10-romanticism)
+11. [On Colour](#11-colour)
+12. [Eugène Delacroix](#12-delacroix)
+13. [On Erotic Subjects](#13-erotic)
+14. [On Some Colourists](#14-colourists)
+15. [On the Ideal and the Model](#15-ideal)
+16. [Some Draughtsmen](#16-draughtsmen)
+17. [On Portraiture](#17-portraiture)
+18. [The Chic and the Poncif](#18-chic)
+19. [M. Horace Vernet](#19-vernet)
+20. [On Eclecticism and Doubt](#20-eclecticism)
+21. [On M. Ary Scheffer](#21-scheffer)
+22. [On Some Doubters](#22-doubters)
+23. [On Landscape](#23-landscape)
+24. [Why Sculpture Is Tiresome](#24-sculpture)
+25. [On Schools and Journeymen](#25-schools)
+26. [On the Heroism of Modern Life](#26-heroism)
+27. [On the Essence of Laughter](#27-laughter)
+28. [Some French Caricaturists](#28-french)
+29. [Some Foreign Caricaturists](#29-foreign)
+30. [Critical Method](#30-method)
+31. [Ingres](#31-ingres)
+32. [Eugène Delacroix (1855)](#32-delacroix-1855)
+33. [The Modern Artist](#33-modern)
+34. [The Modern Public and Photography](#34-photography)
+35. [The Queen of the Faculties](#35-queen)
+36. [The Governance of the Imagination](#36-imagination)
+37. [Religion, History, Fantasy](#37-religion)
+38. [Portraiture (1859)](#38-portraiture-1859)
+39. [Landscape (1859)](#39-landscape-1859)
+40. [Sculpture (1859)](#40-sculpture-1859)
+41. [Envoi](#41-envoi)
+42. [The Life and Work of Eugène Delacroix](#42-life-work)
 
-1. [A Few Words of Introduction]({{ '/chapters/01-a-few-words-of-introduction/' | relative_url }}) — pp. 1–2
-2. [History-Paintings]({{ '/chapters/02-history-paintings/' | relative_url }}) — pp. 3–20
-3. [Portraits]({{ '/chapters/03-portraits/' | relative_url }}) — pp. 21–23
-4. [Genre-Paintings]({{ '/chapters/04-genre-paintings/' | relative_url }}) — pp. 24–27
-5. [Landscapes]({{ '/chapters/05-landscapes/' | relative_url }}) — pp. 28–32
-6. [Drawings and Engravings]({{ '/chapters/06-drawings-and-engravings/' | relative_url }}) — pp. 33–34
-7. [Sculpture]({{ '/chapters/07-sculpture/' | relative_url }}) — pp. 35–37
+---
 
-### The Salon of 1846
+## A Few Words of Introduction {#01-introduction}
 
-8. [To the Bourgeois]({{ '/chapters/08-to-the-bourgeois/' | relative_url }}) — pp. 38–40
-9. [What Is the Good of Criticism?]({{ '/chapters/09-what-is-the-good-of-criticism/' | relative_url }}) — pp. 41–42
-10. [What Is Romanticism?]({{ '/chapters/10-what-is-romanticism/' | relative_url }}) — pp. 43–44
-11. [On Colour]({{ '/chapters/11-on-colour/' | relative_url }}) — pp. 45–50
-12. [Eugène Delacroix]({{ '/chapters/12-eugene-delacroix/' | relative_url }}) — pp. 51–68
-13. [On Erotic Subjects in Art, and on M. Tassaert]({{ '/chapters/13-on-erotic-subjects-in-art-and-on-m-tassaert/' | relative_url }}) — pp. 69–72
-14. [On Some Colourists]({{ '/chapters/14-on-some-colourists/' | relative_url }}) — pp. 73–82
-15. [On the Ideal and the Model]({{ '/chapters/15-on-the-ideal-and-the-model/' | relative_url }}) — pp. 83–85
-16. [Some Draughtsmen]({{ '/chapters/16-some-draughtsmen/' | relative_url }}) — pp. 86–92
-17. [On Portraiture]({{ '/chapters/17-on-portraiture/' | relative_url }}) — pp. 93–96
-18. [The “Chic” and the “Poncif”]({{ '/chapters/18-the-chic-and-the-poncif/' | relative_url }}) — pp. 97–98
-19. [M. Horace Vernet]({{ '/chapters/19-m-horace-vernet/' | relative_url }}) — pp. 99–102
-20. [On Eclecticism and Doubt]({{ '/chapters/20-on-eclecticism-and-doubt/' | relative_url }}) — pp. 103–104
-21. [On M. Ary Scheffer and the Apes of Sentiment]({{ '/chapters/21-on-m-ary-scheffer-and-the-apes-of-sentiment/' | relative_url }}) — pp. 105–108
-22. [On Some Doubters]({{ '/chapters/22-on-some-doubters/' | relative_url }}) — pp. 109–110
-23. [On Landscape]({{ '/chapters/23-on-landscape/' | relative_url }}) — pp. 111–118
-24. [Why Sculpture Is Tiresome]({{ '/chapters/24-why-sculpture-is-tiresome/' | relative_url }}) — pp. 119–122
-25. [On Schools and Journeymen]({{ '/chapters/25-on-schools-and-journeymen/' | relative_url }}) — pp. 123–126
-26. [On the Heroism of Modern Life]({{ '/chapters/26-on-the-heroism-of-modern-life/' | relative_url }}) — pp. 127–130
+*From: The Salon of 1845*
 
-### On the Essence of Laughter
+<div class="artwork-placeholder">[Image Placeholder]</div>
 
-27. [On the Essence of Laughter, in General, and on the Comic in the Plastic Arts]({{ '/chapters/27-on-the-essence-of-laughter-in-general-and-on-the-comic-in-the-plastic-arts/' | relative_url }}) — pp. 131–153
+[Content for this chapter to be added]
 
-### Some French Caricaturists
+---
 
-28. [Some French Caricaturists]({{ '/chapters/28-some-french-caricaturists/' | relative_url }}) — pp. 154–242
+## History-Paintings {#02-history}
 
-### Some Foreign Caricaturists
+*From: The Salon of 1845*
 
-29. [Some Foreign Caricaturists]({{ '/chapters/29-some-foreign-caricaturists/' | relative_url }}) — pp. 243–255
+<div class="artwork-placeholder">[Image Placeholder]</div>
 
-### The Exposition Universelle, 1855
+[Content for this chapter to be added]
 
-30. [Critical Method]({{ '/chapters/30-critical-method/' | relative_url }}) — pp. 256–266
-31. [Ingres]({{ '/chapters/31-ingres/' | relative_url }}) — pp. 267–274
-32. [Eugène Delacroix]({{ '/chapters/32-eugene-delacroix/' | relative_url }}) — pp. 275–283
+---
 
-### The Salon of 1859
+## Portraits {#03-portraits}
 
-33. [The Modern Artist]({{ '/chapters/33-the-modern-artist/' | relative_url }}) — pp. 284–290
-34. [The Modern Public and Photography]({{ '/chapters/34-the-modern-public-and-photography/' | relative_url }}) — pp. 291–296
-35. [The Queen of the Faculties]({{ '/chapters/35-the-queen-of-the-faculties/' | relative_url }}) — pp. 297–302
-36. [The Governance of the Imagination]({{ '/chapters/36-the-governance-of-the-imagination/' | relative_url }}) — pp. 303–306
-37. [Religion, History, Fantasy]({{ '/chapters/37-religion-history-fantasy/' | relative_url }}) — pp. 307–336
-38. [Portraiture]({{ '/chapters/38-portraiture/' | relative_url }}) — pp. 337–342
-39. [Landscape]({{ '/chapters/39-landscape/' | relative_url }}) — pp. 343–352
-40. [Sculpture]({{ '/chapters/40-sculpture/' | relative_url }}) — pp. 353–366
-41. [Envoi]({{ '/chapters/41-envoi/' | relative_url }}) — pp. 367–369
+*From: The Salon of 1845*
 
-### The Life and Work of Eugène Delacroix
+<div class="artwork-placeholder">[Image Placeholder]</div>
 
-42. [The Life and Work of Eugène Delacroix]({{ '/chapters/42-the-life-and-work-of-eugene-delacroix/' | relative_url }}) — pp. 370–402
+[Content for this chapter to be added]
+
+---
+
+## Genre-Paintings {#04-genre}
+
+*From: The Salon of 1845*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Landscapes {#05-landscapes}
+
+*From: The Salon of 1845*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Drawings and Engravings {#06-drawings}
+
+*From: The Salon of 1845*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Sculpture {#07-sculpture}
+
+*From: The Salon of 1845*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## To the Bourgeois {#08-bourgeois}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## What Is the Good of Criticism? {#09-criticism}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## What Is Romanticism? {#10-romanticism}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Colour {#11-colour}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Eugène Delacroix {#12-delacroix}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Erotic Subjects {#13-erotic}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Some Colourists {#14-colourists}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On the Ideal and the Model {#15-ideal}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Some Draughtsmen {#16-draughtsmen}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Portraiture {#17-portraiture}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Chic and the Poncif {#18-chic}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## M. Horace Vernet {#19-vernet}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Eclecticism and Doubt {#20-eclecticism}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On M. Ary Scheffer {#21-scheffer}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Some Doubters {#22-doubters}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Landscape {#23-landscape}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Why Sculpture Is Tiresome {#24-sculpture}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On Schools and Journeymen {#25-schools}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On the Heroism of Modern Life {#26-heroism}
+
+*From: The Salon of 1846*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## On the Essence of Laughter {#27-laughter}
+
+*From: On the Essence of Laughter*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Some French Caricaturists {#28-french}
+
+*From: Some French Caricaturists*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Some Foreign Caricaturists {#29-foreign}
+
+*From: Some Foreign Caricaturists*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Critical Method {#30-method}
+
+*From: The Exposition Universelle, 1855*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Ingres {#31-ingres}
+
+*From: The Exposition Universelle, 1855*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Eugène Delacroix (1855) {#32-delacroix-1855}
+
+*From: The Exposition Universelle, 1855*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Modern Artist {#33-modern}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Modern Public and Photography {#34-photography}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Queen of the Faculties {#35-queen}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Governance of the Imagination {#36-imagination}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Religion, History, Fantasy {#37-religion}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Portraiture (1859) {#38-portraiture-1859}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Landscape (1859) {#39-landscape-1859}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Sculpture (1859) {#40-sculpture-1859}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## Envoi {#41-envoi}
+
+*From: The Salon of 1859*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
+
+---
+
+## The Life and Work of Eugène Delacroix {#42-life-work}
+
+*From: The Life and Work of Eugène Delacroix*
+
+<div class="artwork-placeholder">[Image Placeholder]</div>
+
+[Content for this chapter to be added]
 
