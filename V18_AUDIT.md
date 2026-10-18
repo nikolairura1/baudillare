@@ -1,0 +1,227 @@
+# Version 18 audit
+
+All artwork folders are preserved, including images and removed slots. Inactive or unpictured 1846 entries not explicitly identifiable in chapter prose have been removed from HTML only. Explicit-mention testing is conservative and heuristic: review the following decisions before publication.
+
+History-paintings portraits restored: 30; still without local portrait: 0.
+
+Missing portrait files: 
+
+Unpictured 1846 slots removed: 40
+
+ - 1846-06-on-erotic-subjects-in-art-and-on-m-tassaert.html | 1846-06-art-03 | Octave Tassaert | The Slave Merchant
+ - 1846-07-on-some-colourists.html | 1846-07-art-04 | Joseph-Ferdinand Boissard | Magdalene in the Desert
+ - 1846-07-on-some-colourists.html | 1846-07-art-13 | Manzoni | Nocturnal Assassination
+ - 1846-07-on-some-colourists.html | 1846-07-art-20 | Alexandre-Victor Fontaine | Young Girls in a Wood
+ - 1846-07-on-some-colourists.html | 1846-07-art-21 | Alexandre-Victor Fontaine | The Love Letters
+ - 1846-07-on-some-colourists.html | 1846-07-art-22 | Alexandre-Victor Fontaine | Return from the Wedding
+ - 1846-07-on-some-colourists.html | 1846-07-art-24 | Armand Hubert Simon Leleux | Swiss Dance (Environs of the Black Forest)
+ - 1846-07-on-some-colourists.html | 1846-07-art-25 | Armand Hubert Simon Leleux | Studio Interior
+ - 1846-07-on-some-colourists.html | 1846-07-art-27 | Armand Hubert Simon Leleux | The Bouquet
+ - 1846-07-on-some-colourists.html | 1846-07-art-28 | Armand Hubert Simon Leleux | Peasant Woman of the Alps
+ - 1846-07-on-some-colourists.html | 1846-07-art-29 | Armand Hubert Simon Leleux | Hunter of the Alps
+ - 1846-07-on-some-colourists.html | 1846-07-art-30 | Alexandre Guillemin | The Convoy
+ - 1846-07-on-some-colourists.html | 1846-07-art-31 | Alexandre Guillemin | The Reading
+ - 1846-07-on-some-colourists.html | 1846-07-art-32 | Alexandre Guillemin | Bad News
+ - 1846-07-on-some-colourists.html | 1846-07-art-33 | Alexandre Guillemin | Art in the Regiment
+ - 1846-07-on-some-colourists.html | 1846-07-art-35 | Alexandre Guillemin | Portrait of M. P...
+ - 1846-07-on-some-colourists.html | 1846-07-art-38 | François-Apollinaire-Félix Haffner | Catalan Coppersmiths
+ - 1846-07-on-some-colourists.html | 1846-07-art-39 | François-Apollinaire-Félix Haffner | Farm Interior (Landes)
+ - 1846-09-some-draughtsmen.html | 1846-09-art-09 | Paul-Alfred de Curzon | Master Martin and His Apprentices
+ - 1846-10-on-portraiture.html | 1846-10-art-05 | Claude-Marie Dubufe | Portrait of the Marquise de M...
+ - 1846-10-on-portraiture.html | 1846-10-art-06 | Claude-Marie Dubufe | Portrait of the Marquise de G...
+ - 1846-10-on-portraiture.html | 1846-10-art-07 | Claude-Marie Dubufe | Portrait of Miss Redell
+ - 1846-10-on-portraiture.html | 1846-10-art-12 | Franz Xaver Winterhalter | Portrait of the Countess de P...
+ - 1846-10-on-portraiture.html | 1846-10-art-13 | François-Gabriel Lépaulle | Portrait of the Duke of Osuna and Infantado
+ - 1846-10-on-portraiture.html | 1846-10-art-14 | François-Gabriel Lépaulle | Full-Length Portrait of M. F...
+ - 1846-10-on-portraiture.html | 1846-10-art-15 | François-Gabriel Lépaulle | Portrait of Mlle C. D...
+ - 1846-10-on-portraiture.html | 1846-10-art-16 | François-Gabriel Lépaulle | Portrait of Mlle F. T...
+ - 1846-10-on-portraiture.html | 1846-10-art-17 | François-Gabriel Lépaulle | Portrait of the Son of M. H. L...
+ - 1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html | 1846-14-art-05 | Pierre Cottin (after Alexandre Guillemin) | Love in the City; after M. Guillemin
+ - 1846-16-on-landscape.html | 1846-16-art-05 | Auguste Borget | Desert between Cordora and Mondoga (Argentine Republic)
+ - 1846-16-on-landscape.html | 1846-16-art-06 | Auguste Borget | Street in Valladolid, Lima (Peru)
+ - 1846-16-on-landscape.html | 1846-16-art-07 | Auguste Borget | Promenade of a Chinese Lady
+ - 1846-16-on-landscape.html | 1846-16-art-10 | Auguste Borget | Mosque in the Outskirts of Calcutta
+ - 1846-16-on-landscape.html | 1846-16-art-11 | Auguste Borget | Burmese Temple on Poulo-Senang Island (Strait of Malacca)
+ - 1846-16-on-landscape.html | 1846-16-art-13 | Louis Lottier | The Arab Market in Algiers
+ - 1846-16-on-landscape.html | 1846-16-art-14 | Théodore Gudin | Sourdis, Archbishop of Bordeaux, Drives the Spaniards from the Port of Roses (26 March 1641)
+ - 1846-16-on-landscape.html | 1846-16-art-20 | Jules Noël | Souvenir of Rhodes; Marine
+ - 1846-16-on-landscape.html | 1846-16-art-22 | Philippe Rousseau | The Cat and the Old Rat
+ - 1846-16-on-landscape.html | 1846-16-art-23 | Philippe Rousseau | Still Life
+ - 1846-16-on-landscape.html | 1846-16-art-24 | Philippe Rousseau | Still Life
+
+Artwork blocks moved nearer artist paragraph: 174
+
+ - 02-history-paintings.html | 02-before-art-06 | 1
+ - 02-history-paintings.html | 02-before-art-09 | 1
+ - 02-history-paintings.html | 02-before-art-18 | 1
+ - 02-history-paintings.html | 02-before-art-21 | 1
+ - 02-history-paintings.html | 02-before-art-32 | 1
+ - 02-history-paintings.html | 02-before-art-57 | 1
+ - 02-history-paintings.html | 02-before-art-61 | 1
+ - 02-history-paintings.html | 02-before-art-78 | 1
+ - 02-history-paintings.html | 02-before-art-80 | 2
+ - 02-history-paintings.html | 02-before-art-83 | 1
+ - 02-history-paintings.html | 02-before-art-84 | 1
+ - 02-history-paintings.html | 02-before-art-101 | 1
+ - 02-history-paintings.html | 02-before-art-133 | 2
+ - 02-history-paintings.html | 02-before-art-140 | 1
+ - 02-history-paintings.html | 02-before-art-167 | 1
+ - 03-portraits.html | iii-art-01 | 1
+ - 03-portraits.html | iii-art-02 | 2
+ - 03-portraits.html | iii-art-03 | 2
+ - 03-portraits.html | iii-art-04 | 2
+ - 03-portraits.html | iii-art-05 | 2
+ - 03-portraits.html | iii-art-06 | 1
+ - 03-portraits.html | iii-art-09 | 1
+ - 03-portraits.html | iii-art-10 | 2
+ - 03-portraits.html | iii-art-12 | 2
+ - 03-portraits.html | iii-art-13 | 1
+ - 03-portraits.html | iii-art-14 | 1
+ - 04-genre-paintings.html | iv-art-01 | 2
+ - 04-genre-paintings.html | iv-art-03 | 2
+ - 04-genre-paintings.html | iv-art-04 | 1
+ - 04-genre-paintings.html | iv-art-05 | 1
+ - 04-genre-paintings.html | iv-art-07 | 2
+ - 04-genre-paintings.html | iv-art-08 | 1
+ - 04-genre-paintings.html | iv-art-09 | 1
+ - 04-genre-paintings.html | iv-10 | 1
+ - 04-genre-paintings.html | iv-art-12 | 1
+ - 04-genre-paintings.html | iv-art-13 | 1
+ - 04-genre-paintings.html | iv-art-14 | 1
+ - 04-genre-paintings.html | iv-art-15 | 2
+ - 04-genre-paintings.html | iv-art-16 | 2
+ - 04-genre-paintings.html | iv-art-17 | 2
+ - 04-genre-paintings.html | iv-art-18 | 2
+ - 04-genre-paintings.html | iv-art-19 | 2
+ - 04-genre-paintings.html | iv-art-20 | 1
+ - 04-genre-paintings.html | iv-art-21 | 1
+ - 04-genre-paintings.html | iv-art-22 | 1
+ - 04-genre-paintings.html | iv-art-23 | 1
+ - 04-genre-paintings.html | iv-27 | 1
+ - 04-genre-paintings.html | iv-art-28 | 2
+ - 04-genre-paintings.html | iv-art-29 | 2
+ - 04-genre-paintings.html | iv-art-30 | 2
+ - 05-landscapes.html | v-art-02 | 1
+ - 05-landscapes.html | v-art-03 | 1
+ - 05-landscapes.html | v-art-04 | 2
+ - 05-landscapes.html | v-art-05 | 1
+ - 05-landscapes.html | v-art-06 | 1
+ - 05-landscapes.html | v-art-07 | 2
+ - 05-landscapes.html | v-art-08 | 2
+ - 05-landscapes.html | v-art-09 | 2
+ - 05-landscapes.html | v-art-10 | 2
+ - 05-landscapes.html | v-art-11 | 2
+ - 05-landscapes.html | v-art-12 | 2
+ - 05-landscapes.html | v-art-13 | 2
+ - 05-landscapes.html | v-art-14 | 2
+ - 05-landscapes.html | v-art-15 | 1
+ - 05-landscapes.html | v-16 | 1
+ - 05-landscapes.html | v-art-17 | 1
+ - 05-landscapes.html | v-art-18 | 1
+ - 05-landscapes.html | v-art-19 | 1
+ - 05-landscapes.html | v-art-20 | 2
+ - 05-landscapes.html | v-art-21 | 2
+ - 05-landscapes.html | v-art-22 | 1
+ - 05-landscapes.html | v-art-23 | 2
+ - 05-landscapes.html | v-art-24 | 2
+ - 06-drawings-engravings.html | vi-art-01 | 1
+ - 06-drawings-engravings.html | vi-art-02 | 1
+ - 06-drawings-engravings.html | vi-art-03 | 1
+ - 06-drawings-engravings.html | vi-art-04 | 1
+ - 06-drawings-engravings.html | vi-art-05 | 2
+ - 06-drawings-engravings.html | vi-art-06 | 2
+ - 06-drawings-engravings.html | vi-art-07 | 2
+ - 06-drawings-engravings.html | vi-art-08 | 2
+ - 06-drawings-engravings.html | vi-art-09 | 1
+ - 06-drawings-engravings.html | vi-art-10 | 2
+ - 06-drawings-engravings.html | vi-art-11 | 1
+ - 06-drawings-engravings.html | vi-art-12 | 1
+ - 06-drawings-engravings.html | vi-art-13 | 2
+ - 06-drawings-engravings.html | vi-art-14 | 1
+ - 06-drawings-engravings.html | vi-art-15 | 1
+ - 06-drawings-engravings.html | vi-art-16 | 1
+ - 07-sculpture.html | vii-art-01 | 1
+ - 07-sculpture.html | vii-art-02 | 3
+ - 07-sculpture.html | vii-art-03 | 1
+ - 07-sculpture.html | vii-art-04 | 1
+ - 07-sculpture.html | vii-art-05 | 1
+ - 07-sculpture.html | vii-art-06 | 1
+ - 07-sculpture.html | vii-art-07 | 3
+ - 07-sculpture.html | vii-art-08 | 1
+ - 07-sculpture.html | vii-art-09 | 1
+ - 07-sculpture.html | vii-art-10 | 2
+ - 07-sculpture.html | vii-art-11 | 2
+ - 07-sculpture.html | vii-art-12 | 1
+ - 07-sculpture.html | vii-art-13 | 2
+ - 07-sculpture.html | vii-art-14 | 2
+ - 07-sculpture.html | vii-art-15 | 2
+ - 07-sculpture.html | vii-art-17 | 2
+ - 07-sculpture.html | vii-art-18 | 2
+ - 07-sculpture.html | vii-art-19 | 2
+ - 07-sculpture.html | vii-art-20 | 2
+ - 07-sculpture.html | vii-art-21 | 2
+ - 1846-05-eugene-delacroix.html | 1846-05-art-01 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-02 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-03 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-04 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-05 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-07 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-11 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-16 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-17 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-18 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-19 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-20 | 1
+ - 1846-05-eugene-delacroix.html | 1846-05-art-21 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-03 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-05 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-06 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-07 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-11 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-12 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-15 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-16 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-18 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-19 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-34 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-36 | 1
+ - 1846-07-on-some-colourists.html | 1846-07-art-37 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-03 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-04 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-05 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-06 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-07 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-08 | 1
+ - 1846-09-some-draughtsmen.html | 1846-09-art-10 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-02 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-03 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-08 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-09 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-10 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-11 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-18 | 1
+ - 1846-10-on-portraiture.html | 1846-10-art-19 | 1
+ - 1846-12-m-horace-vernet.html | 1846-12-art-01 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-02 | 2
+ - 1846-15-on-some-doubters.html | 1846-15-art-03 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-04 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-05 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-06 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-07 | 1
+ - 1846-15-on-some-doubters.html | 1846-15-art-08 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-01 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-03 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-04 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-08 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-09 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-12 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-15 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-16 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-17 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-18 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-19 | 1
+ - 1846-16-on-landscape.html | 1846-16-art-21 | 1
+ - 1846-17-why-sculpture-is-tiresome.html | 1846-17-art-01 | 1
+ - 1846-17-why-sculpture-is-tiresome.html | 1846-17-art-02 | 1
+ - 1846-17-why-sculpture-is-tiresome.html | 1846-17-art-03 | 1
+ - 1846-17-why-sculpture-is-tiresome.html | 1846-17-art-04 | 1

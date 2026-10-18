@@ -1,0 +1,381 @@
+chapter,slot,artist,title,folder,image_present,visible
+01-introduction.html,01-before-01,,,assets/artworks/01-before-01/,False,False
+01-introduction.html,01-before-02,,,assets/artworks/01-before-02/,False,False
+01-introduction.html,01-before-03,,,assets/artworks/01-before-03/,False,False
+01-introduction.html,01-before-04,,,assets/artworks/01-before-04/,False,False
+01-introduction.html,01-before-05,,,assets/artworks/01-before-05/,False,False
+01-introduction.html,01-before-06,,,assets/artworks/01-before-06/,False,False
+01-introduction.html,01-before-07,,,assets/artworks/01-before-07/,False,False
+01-introduction.html,01-before-08,,,assets/artworks/01-before-08/,False,False
+01-introduction.html,01-before-09,,,assets/artworks/01-before-09/,False,False
+01-introduction.html,01-before-10,,,assets/artworks/01-before-10/,False,False
+02-history-paintings.html,02-before-01,,,assets/artworks/02-before-01/,True,False
+02-history-paintings.html,02-before-02,,,assets/artworks/02-before-02/,True,False
+02-history-paintings.html,02-before-03,,,assets/artworks/02-before-03/,True,False
+02-history-paintings.html,02-before-04,,,assets/artworks/02-before-04/,True,False
+02-history-paintings.html,02-before-05,,,assets/artworks/02-before-05/,True,False
+02-history-paintings.html,02-before-art-06,Eugène Delacroix,Mary Magdalene in the Desert,assets/artworks/02-before-art-06/,True,True
+02-history-paintings.html,02-before-07,,,assets/artworks/02-before-07/,True,False
+02-history-paintings.html,02-before-08,,,assets/artworks/02-before-08/,True,False
+02-history-paintings.html,02-before-art-09,Eugène Delacroix,The Last Words of Marcus Aurelius,assets/artworks/02-before-art-09/,True,True
+02-history-paintings.html,02-before-10,,,assets/artworks/02-before-10/,True,False
+02-history-paintings.html,02-before-11,,,assets/artworks/02-before-11/,True,False
+02-history-paintings.html,02-before-12,,,assets/artworks/02-before-12/,True,False
+02-history-paintings.html,02-before-13,,,assets/artworks/02-before-13/,True,False
+02-history-paintings.html,02-before-14,,,assets/artworks/02-before-14/,True,False
+02-history-paintings.html,02-before-15,,,assets/artworks/02-before-15/,True,False
+02-history-paintings.html,02-before-16,,,assets/artworks/02-before-16/,True,False
+02-history-paintings.html,02-before-17,,,assets/artworks/02-before-17/,True,False
+02-history-paintings.html,02-before-art-18,Eugène Delacroix,A Sibyl Showing the Golden Bough,assets/artworks/02-before-art-18/,True,True
+02-history-paintings.html,02-before-19,,,assets/artworks/02-before-19/,True,False
+02-history-paintings.html,02-before-20,,,assets/artworks/02-before-20/,True,False
+02-history-paintings.html,02-before-art-21,Eugène Delacroix,The Sultan of Morocco Surrounded by His Guard and Officers,assets/artworks/02-before-art-21/,True,True
+02-history-paintings.html,02-before-22,,,assets/artworks/02-before-22/,True,False
+02-history-paintings.html,02-before-23,,,assets/artworks/02-before-23/,True,False
+02-history-paintings.html,02-before-24,,,assets/artworks/02-before-24/,True,False
+02-history-paintings.html,02-before-25,,,assets/artworks/02-before-25/,True,False
+02-history-paintings.html,02-before-art-26,Horace Vernet,The Capture of the Smala of Abd-el-Kader,assets/artworks/02-before-art-26/,True,True
+02-history-paintings.html,02-before-27,,,assets/artworks/02-before-27/,True,False
+02-history-paintings.html,02-before-28,,,assets/artworks/02-before-28/,True,False
+02-history-paintings.html,02-before-29,,,assets/artworks/02-before-29/,True,False
+02-history-paintings.html,02-before-30,,,assets/artworks/02-before-30/,True,False
+02-history-paintings.html,02-before-31,,,assets/artworks/02-before-31/,True,False
+02-history-paintings.html,02-before-art-32,William Haussoullier,The Fountain of Youth,assets/artworks/02-before-art-32/,True,True
+02-history-paintings.html,02-before-33,,,assets/artworks/02-before-33/,True,False
+02-history-paintings.html,02-before-34,,,assets/artworks/02-before-34/,True,False
+02-history-paintings.html,02-before-35,,,assets/artworks/02-before-35/,True,False
+02-history-paintings.html,02-before-36,,,assets/artworks/02-before-36/,True,False
+02-history-paintings.html,02-before-37,,,assets/artworks/02-before-37/,True,False
+02-history-paintings.html,02-before-38,,,assets/artworks/02-before-38/,True,False
+02-history-paintings.html,02-before-39,,,assets/artworks/02-before-39/,True,False
+02-history-paintings.html,02-before-40,,,assets/artworks/02-before-40/,True,False
+02-history-paintings.html,02-before-41,,,assets/artworks/02-before-41/,True,False
+02-history-paintings.html,02-before-42,,,assets/artworks/02-before-42/,True,False
+02-history-paintings.html,02-before-art-43,Alexandre-Gabriel Decamps,The Punishment of the Hooks,assets/artworks/02-before-art-43/,True,True
+02-history-paintings.html,02-before-art-44,Alexandre-Gabriel Decamps,The Defeat of the Cimbri,assets/artworks/02-before-art-44/,True,True
+02-history-paintings.html,02-before-45,,,assets/artworks/02-before-45/,True,False
+02-history-paintings.html,02-before-46,,,assets/artworks/02-before-46/,True,False
+02-history-paintings.html,02-before-47,,,assets/artworks/02-before-47/,True,False
+02-history-paintings.html,02-before-art-48,Alexandre-Gabriel Decamps,Samson series,assets/artworks/02-before-art-48/,True,True
+02-history-paintings.html,02-before-49,,,assets/artworks/02-before-49/,True,False
+02-history-paintings.html,02-before-50,,,assets/artworks/02-before-50/,True,False
+02-history-paintings.html,02-before-art-51,Alexandre-Gabriel Decamps,Samson at the Mill,assets/artworks/02-before-art-51/,True,True
+02-history-paintings.html,02-before-52,,,assets/artworks/02-before-52/,True,False
+02-history-paintings.html,02-before-53,,,assets/artworks/02-before-53/,True,False
+02-history-paintings.html,02-before-54,,,assets/artworks/02-before-54/,True,False
+02-history-paintings.html,02-before-55,,,assets/artworks/02-before-55/,True,False
+02-history-paintings.html,02-before-56,,,assets/artworks/02-before-56/,True,False
+02-history-paintings.html,02-before-art-57,Joseph-Nicolas Robert-Fleury,Marino Faliero,assets/artworks/02-before-art-57/,True,True
+02-history-paintings.html,02-before-58,,,assets/artworks/02-before-58/,True,False
+02-history-paintings.html,02-before-art-59,Joseph-Nicolas Robert-Fleury,Auto-da-fé,assets/artworks/02-before-art-59/,True,True
+02-history-paintings.html,02-before-60,,,assets/artworks/02-before-60/,True,False
+02-history-paintings.html,02-before-art-61,Joseph-Nicolas Robert-Fleury,Nude Woman,assets/artworks/02-before-art-61/,True,True
+02-history-paintings.html,02-before-62,,,assets/artworks/02-before-62/,True,False
+02-history-paintings.html,02-before-art-63,Rembrandt,Image supplied for the “Rembrandt’s Studio” reference,assets/artworks/02-before-art-63/,True,True
+02-history-paintings.html,02-before-64,,,assets/artworks/02-before-64/,True,False
+02-history-paintings.html,02-before-65,,,assets/artworks/02-before-65/,True,False
+02-history-paintings.html,02-before-66,,,assets/artworks/02-before-66/,True,False
+02-history-paintings.html,02-before-art-67,François-Marius Granet,A Chapter of the Order of the Temple,assets/artworks/02-before-art-67/,True,True
+02-history-paintings.html,02-before-68,,,assets/artworks/02-before-68/,True,False
+02-history-paintings.html,02-before-69,,,assets/artworks/02-before-69/,True,False
+02-history-paintings.html,02-before-70,,,assets/artworks/02-before-70/,True,False
+02-history-paintings.html,02-before-art-71,Eugène Devéria,The Birth of Henry IV,assets/artworks/02-before-art-71/,True,True
+02-history-paintings.html,02-before-72,,,assets/artworks/02-before-72/,True,False
+02-history-paintings.html,02-before-73,,,assets/artworks/02-before-73/,True,False
+02-history-paintings.html,02-before-74,,,assets/artworks/02-before-74/,True,False
+02-history-paintings.html,02-before-art-75,Achille Devéria,Saint Anne Teaching the Virgin,assets/artworks/02-before-art-75/,True,True
+02-history-paintings.html,02-before-76,,,assets/artworks/02-before-76/,True,False
+02-history-paintings.html,02-before-77,,,assets/artworks/02-before-77/,True,False
+02-history-paintings.html,02-before-art-78,Louis Boulanger,Holy Family,assets/artworks/02-before-art-78/,True,True
+02-history-paintings.html,02-before-79,,,assets/artworks/02-before-79/,True,False
+02-history-paintings.html,02-before-art-80,Louis Boulanger,Virgil’s Shepherds,assets/artworks/02-before-art-80/,True,True
+02-history-paintings.html,02-before-81,,,assets/artworks/02-before-81/,True,False
+02-history-paintings.html,02-before-82,,,assets/artworks/02-before-82/,True,False
+02-history-paintings.html,02-before-art-83,Louis Boulanger,Bathers,assets/artworks/02-before-art-83/,True,True
+02-history-paintings.html,02-before-art-84,Louis Boulanger,Portrait of a Man,assets/artworks/02-before-art-84/,True,True
+02-history-paintings.html,02-before-85,,,assets/artworks/02-before-85/,True,False
+02-history-paintings.html,02-before-86,,,assets/artworks/02-before-86/,True,False
+02-history-paintings.html,02-before-87,,,assets/artworks/02-before-87/,True,False
+02-history-paintings.html,02-before-art-88,Boissard,"Music, Painting and Poetry",assets/artworks/02-before-art-88/,True,True
+02-history-paintings.html,02-before-art-89,Boissard,Christ on the Cross,assets/artworks/02-before-art-89/,True,True
+02-history-paintings.html,02-before-90,,,assets/artworks/02-before-90/,True,False
+02-history-paintings.html,02-before-91,,,assets/artworks/02-before-91/,True,False
+02-history-paintings.html,02-before-art-92,Jean-Victor Schnetz,The Sack by Attila,assets/artworks/02-before-art-92/,True,True
+02-history-paintings.html,02-before-93,,,assets/artworks/02-before-93/,True,False
+02-history-paintings.html,02-before-94,,,assets/artworks/02-before-94/,True,False
+02-history-paintings.html,02-before-art-95,Théodore Chassériau,"Ali-Ben-Hamet, Caliph of Constantine and Chief of the Haractas, Followed by His Escort",assets/artworks/02-before-art-95/,True,True
+02-history-paintings.html,02-before-96,,,assets/artworks/02-before-96/,True,False
+02-history-paintings.html,02-before-97,,,assets/artworks/02-before-97/,True,False
+02-history-paintings.html,02-before-art-98,Théodore Chassériau,Othello illustration,assets/artworks/02-before-art-98/,True,True
+02-history-paintings.html,02-before-99,,,assets/artworks/02-before-99/,True,False
+02-history-paintings.html,02-before-100,,,assets/artworks/02-before-100/,True,False
+02-history-paintings.html,02-before-art-101,François-Hippolyte Debon,"Battle of Hastings, 1066",assets/artworks/02-before-art-101/,True,True
+02-history-paintings.html,02-before-102,,,assets/artworks/02-before-102/,True,False
+02-history-paintings.html,02-before-art-103,Victor Robert,"Religion, Philosophy, the Sciences and the Arts Enlightening Europe",assets/artworks/02-before-art-103/,True,True
+02-history-paintings.html,02-before-104,,,assets/artworks/02-before-104/,True,False
+02-history-paintings.html,02-before-105,,,assets/artworks/02-before-105/,True,False
+02-history-paintings.html,02-before-106,,,assets/artworks/02-before-106/,True,False
+02-history-paintings.html,02-before-107,,,assets/artworks/02-before-107/,True,False
+02-history-paintings.html,02-before-108,,,assets/artworks/02-before-108/,True,False
+02-history-paintings.html,02-before-109,,,assets/artworks/02-before-109/,True,False
+02-history-paintings.html,02-before-110,,,assets/artworks/02-before-110/,True,False
+02-history-paintings.html,02-before-art-111,Adolphe Brune,Christ Taken Down from the Cross,assets/artworks/02-before-art-111/,True,True
+02-history-paintings.html,02-before-art-112,Adolphe Brune,The Apocalypse,assets/artworks/02-before-art-112/,True,True
+02-history-paintings.html,02-before-art-113,Adolphe Brune,Envy,assets/artworks/02-before-art-113/,True,True
+02-history-paintings.html,02-before-114,,,assets/artworks/02-before-114/,True,False
+02-history-paintings.html,02-before-115,,,assets/artworks/02-before-115/,True,False
+02-history-paintings.html,02-before-116,,,assets/artworks/02-before-116/,True,False
+02-history-paintings.html,02-before-art-117,Auguste-Barthélemy Glaize,Conversion of the Magdalene,assets/artworks/02-before-art-117/,True,True
+02-history-paintings.html,02-before-art-118,Auguste-Barthélemy Glaize,Galatea and Acis,assets/artworks/02-before-art-118/,True,True
+02-history-paintings.html,02-before-119,,,assets/artworks/02-before-119/,True,False
+02-history-paintings.html,02-before-120,,,assets/artworks/02-before-120/,True,False
+02-history-paintings.html,02-before-121,,,assets/artworks/02-before-121/,True,False
+02-history-paintings.html,02-before-122,,,assets/artworks/02-before-122/,True,False
+02-history-paintings.html,02-before-123,,,assets/artworks/02-before-123/,True,False
+02-history-paintings.html,02-before-124,,,assets/artworks/02-before-124/,True,False
+02-history-paintings.html,02-before-125,,,assets/artworks/02-before-125/,True,False
+02-history-paintings.html,02-before-126,,,assets/artworks/02-before-126/,True,False
+02-history-paintings.html,02-before-127,,,assets/artworks/02-before-127/,True,False
+02-history-paintings.html,02-before-128,,,assets/artworks/02-before-128/,True,False
+02-history-paintings.html,02-before-129,,,assets/artworks/02-before-129/,True,False
+02-history-paintings.html,02-before-130,,,assets/artworks/02-before-130/,True,False
+02-history-paintings.html,02-before-131,,,assets/artworks/02-before-131/,True,False
+02-history-paintings.html,02-before-132,,,assets/artworks/02-before-132/,True,False
+02-history-paintings.html,02-before-art-133,Dugasseau,Sappho Taking the Leap from Leucas,assets/artworks/02-before-art-133/,True,True
+02-history-paintings.html,02-before-134,,,assets/artworks/02-before-134/,True,False
+02-history-paintings.html,02-before-135,,,assets/artworks/02-before-135/,True,False
+02-history-paintings.html,02-before-art-136,Charles Gleyre,Evening (Lost Illusions),assets/artworks/02-before-art-136/,True,True
+02-history-paintings.html,02-before-137,Marc Gabriel Charles Gleyre,Departure of the Apostles,assets/artworks/02-before-137/,True,True
+02-history-paintings.html,02-before-138,,,assets/artworks/02-before-138/,True,False
+02-history-paintings.html,02-before-139,,,assets/artworks/02-before-139/,True,False
+02-history-paintings.html,02-before-art-140,Jacques Pilliard,Plague subject,assets/artworks/02-before-art-140/,True,True
+02-history-paintings.html,02-before-141,,,assets/artworks/02-before-141/,True,False
+02-history-paintings.html,02-before-142,,,assets/artworks/02-before-142/,True,False
+02-history-paintings.html,02-before-143,,,assets/artworks/02-before-143/,True,False
+02-history-paintings.html,02-before-144,,,assets/artworks/02-before-144/,True,False
+02-history-paintings.html,02-before-145,,,assets/artworks/02-before-145/,True,False
+02-history-paintings.html,02-before-art-146,Joseph Fay,Customs and Life of the Ancient Germans,assets/artworks/02-before-art-146/,True,True
+02-history-paintings.html,02-before-147,,,assets/artworks/02-before-147/,True,False
+02-history-paintings.html,02-before-148,,,assets/artworks/02-before-148/,True,False
+02-history-paintings.html,02-before-149,,,assets/artworks/02-before-149/,True,False
+02-history-paintings.html,02-before-150,,,assets/artworks/02-before-150/,True,False
+02-history-paintings.html,02-before-151,,,assets/artworks/02-before-151/,True,False
+02-history-paintings.html,02-before-152,,,assets/artworks/02-before-152/,True,False
+02-history-paintings.html,02-before-art-153,Jollivet,Massacre of the Innocents,assets/artworks/02-before-art-153/,True,True
+02-history-paintings.html,02-before-154,,,assets/artworks/02-before-154/,True,False
+02-history-paintings.html,02-before-155,,,assets/artworks/02-before-155/,True,False
+02-history-paintings.html,02-before-156,,,assets/artworks/02-before-156/,True,False
+02-history-paintings.html,02-before-157,,,assets/artworks/02-before-157/,True,False
+02-history-paintings.html,02-before-158,,,assets/artworks/02-before-158/,True,False
+02-history-paintings.html,02-before-159,,,assets/artworks/02-before-159/,True,False
+02-history-paintings.html,02-before-160,,,assets/artworks/02-before-160/,True,False
+02-history-paintings.html,02-before-161,,,assets/artworks/02-before-161/,True,False
+02-history-paintings.html,02-before-162,,,assets/artworks/02-before-162/,True,False
+02-history-paintings.html,02-before-163,,,assets/artworks/02-before-163/,True,False
+02-history-paintings.html,02-before-art-164,Louis Janmot,Seated Woman with Flowers,assets/artworks/02-before-art-164/,True,True
+02-history-paintings.html,02-before-165,,,assets/artworks/02-before-165/,True,False
+02-history-paintings.html,02-before-166,,,assets/artworks/02-before-166/,True,False
+02-history-paintings.html,02-before-art-167,Louis Janmot,Assumption of the Virgin / Rehabilitation of Woman,assets/artworks/02-before-art-167/,True,True
+02-history-paintings.html,02-before-168,,,assets/artworks/02-before-168/,True,False
+02-history-paintings.html,02-before-169,,,assets/artworks/02-before-169/,True,False
+03-portraits.html,iii-art-01,Belloc,Portrait of Michelet,assets/artworks/iii-art-01/,True,True
+03-portraits.html,iii-art-02,Tissier,Portrait of a Woman,assets/artworks/iii-art-02/,True,True
+03-portraits.html,iii-art-03,Tissier,Religious Painting,assets/artworks/iii-art-03/,True,True
+03-portraits.html,iii-art-04,Riesener,Portrait of Doctor H. de Saint-A…,assets/artworks/iii-art-04/,True,True
+03-portraits.html,iii-art-05,Dupont,Portrait of a Young Lady with a Small Dog,assets/artworks/iii-art-05/,True,True
+03-portraits.html,iii-art-06,Pérignon,Nine Portraits (six women),assets/artworks/iii-art-06/,True,True
+03-portraits.html,iii-art-07,Hippolyte Flandrin,Woman in a Theater Box with Violets,assets/artworks/iii-art-07/,True,True
+03-portraits.html,iii-art-08,Hippolyte Flandrin,Portrait of M. Chaix-d’Est-Ange,assets/artworks/iii-art-08/,True,True
+03-portraits.html,iii-art-09,Rudolphe Lehmann,Portrait of Princess Belg…,assets/artworks/iii-art-09/,True,True
+03-portraits.html,iii-art-10,Verdier,Mademoiselle Garrique in The Barber of Seville,assets/artworks/iii-art-10/,True,True
+03-portraits.html,iii-art-11,Henri Scheffer,Portrait of Louis-Philippe,assets/artworks/iii-art-11/,True,True
+03-portraits.html,iii-art-12,Leiendecker,Portrait of Mademoiselle Brohan,assets/artworks/iii-art-12/,True,True
+03-portraits.html,iii-art-13,Ravergie,Portrait of Mademoiselle Brohan,assets/artworks/iii-art-13/,True,True
+03-portraits.html,iii-art-14,Ravergie,Portrait of Madame Guyon,assets/artworks/iii-art-14/,True,True
+04-genre-paintings.html,iv-art-01,Baron,The Geese of Brother Philippe,assets/artworks/iv-art-01/,True,True
+04-genre-paintings.html,iv-art-02,Isabey,"Interior with Crocodiles, Stuffed Birds, Books, Furnaces, and an Old Man",assets/artworks/iv-art-02/,True,True
+04-genre-paintings.html,iv-art-03,Lécurieux,Scene from Marion Delorme,assets/artworks/iv-art-03/,False,True
+04-genre-paintings.html,iv-art-04,Céleste Pensotti,Evening Reverie,assets/artworks/iv-art-04/,True,True
+04-genre-paintings.html,iv-art-05,Tassaert,The Virgin Nursing the Christ Child beneath Flowers and Cupids,assets/artworks/iv-art-05/,True,True
+04-genre-paintings.html,iv-art-06,Leleux brothers,Salon of 1845 genre paintings,assets/artworks/iv-art-06/,True,True
+04-genre-paintings.html,iv-art-07,Lepoitevin,Salon of 1845 Henri-Berthoud-style subjects,assets/artworks/iv-art-07/,True,True
+04-genre-paintings.html,iv-art-08,Guillemin,Salon of 1845 narrative genre paintings,assets/artworks/iv-art-08/,True,True
+04-genre-paintings.html,iv-art-09,Muller,Fanny,assets/artworks/iv-art-09/,True,True
+04-genre-paintings.html,iv-10,Pierre Duval Le Camus,A Pifferaro Giving His Son a Lesson,assets/artworks/iv-10/,True,True
+04-genre-paintings.html,iv-art-11,Gigoux,The Death of Manon Lescaut,assets/artworks/iv-art-11/,True,True
+04-genre-paintings.html,iv-art-12,Gigoux,The Comte de Comminges,assets/artworks/iv-art-12/,True,True
+04-genre-paintings.html,iv-art-13,Gigoux,Francis I Attending Leonardo da Vinci in His Last Moments,assets/artworks/iv-art-13/,True,True
+04-genre-paintings.html,iv-art-14,Gigoux,Gil Blas,assets/artworks/iv-art-14/,True,True
+04-genre-paintings.html,iv-art-15,Rudolphe Lehmann,Italian Women,assets/artworks/iv-art-15/,True,True
+04-genre-paintings.html,iv-art-16,De la Foulhouze,Park with Ladies and Gentlemen in Olden Times,assets/artworks/iv-art-16/,True,True
+04-genre-paintings.html,iv-art-17,Peresse,The Season of Roses,assets/artworks/iv-art-17/,True,True
+04-genre-paintings.html,iv-art-18,De Dreux,The Châtelaine,assets/artworks/iv-art-18/,True,True
+04-genre-paintings.html,iv-art-19,De Dreux,Animal Scenes,assets/artworks/iv-art-19/,True,True
+04-genre-paintings.html,iv-art-20,Madame Calamatta,Nude Woman at Her Toilette,assets/artworks/iv-art-20/,True,True
+04-genre-paintings.html,iv-art-21,Papety,Memphis,assets/artworks/iv-art-21/,True,True
+04-genre-paintings.html,iv-art-22,Papety,An Assault,assets/artworks/iv-art-22/,True,True
+04-genre-paintings.html,iv-art-23,Adrien Guignet,The Pharaohs,assets/artworks/iv-art-23/,True,True
+04-genre-paintings.html,iv-art-24,Meissonier,Soldiers Playing Dice,assets/artworks/iv-art-24/,True,True
+04-genre-paintings.html,iv-art-25,Meissonier,Young Man Leafing Through a Portfolio,assets/artworks/iv-art-25/,True,True
+04-genre-paintings.html,iv-art-26,Meissonier,Two Drinkers Playing Cards,assets/artworks/iv-art-26/,True,True
+04-genre-paintings.html,iv-27,Claudius Jacquand,Council of Ministers at the Tuileries,assets/artworks/iv-27/,True,True
+04-genre-paintings.html,iv-art-28,Henri Scheffer,Madame Roland Going to the Scaffold,assets/artworks/iv-art-28/,True,True
+04-genre-paintings.html,iv-art-29,Henri Scheffer,Charlotte Corday,assets/artworks/iv-art-29/,True,True
+04-genre-paintings.html,iv-art-30,Hornung,The Most Stubborn of the Three Is Not the One You Think,assets/artworks/iv-art-30/,True,True
+05-landscapes.html,v-art-01,Corot,Woman Playing the Violin in a Green Landscape,assets/artworks/v-art-01/,True,True
+05-landscapes.html,v-art-02,Corot,Homer and the Shepherds,assets/artworks/v-art-02/,True,True
+05-landscapes.html,v-art-03,Corot,Daphnis and Chloe,assets/artworks/v-art-03/,True,True
+05-landscapes.html,v-art-04,Français,Evening,assets/artworks/v-art-04/,True,True
+05-landscapes.html,v-art-05,Paul Huet,Old Castle on Rocks,assets/artworks/v-art-05/,True,True
+05-landscapes.html,v-art-06,Curzon,The Hops,assets/artworks/v-art-06/,True,True
+05-landscapes.html,v-art-07,Wickenberg,Winter Effects,assets/artworks/v-art-07/,True,True
+05-landscapes.html,v-art-08,Dauzats,Oriental and Algerian Views,assets/artworks/v-art-08/,True,True
+05-landscapes.html,v-art-09,Charles-Théodore Frère,Oriental / Algerian Work,assets/artworks/v-art-09/,True,True
+05-landscapes.html,v-art-10,Chacaton,Non-Oriental Landscape,assets/artworks/v-art-10/,True,True
+05-landscapes.html,v-art-11,Loubon,Shepherds of the Landes,assets/artworks/v-art-11/,True,True
+05-landscapes.html,v-art-12,Garnerey,Belfries and Cathedrals,assets/artworks/v-art-12/,True,True
+05-landscapes.html,v-art-13,Joyant,Palace of the Popes at Avignon,assets/artworks/v-art-13/,True,True
+05-landscapes.html,v-art-14,Joyant,View of Venice,assets/artworks/v-art-14/,True,True
+05-landscapes.html,v-art-15,Borget,Indian and Chinese Views,assets/artworks/v-art-15/,True,True
+05-landscapes.html,v-16,Henri Pierre Léon Pharamond Blanchard,Hernán Cortés Going from Veracruz to Mexico,assets/artworks/v-16/,True,True
+05-landscapes.html,v-art-17,Lapierre,Daphnis and Chloe,assets/artworks/v-art-17/,True,True
+05-landscapes.html,v-art-18,Brascassat,Animal / landscape works discussed,assets/artworks/v-art-18/,True,True
+05-landscapes.html,v-art-19,Saint-Jean,Flowers and Fruit,assets/artworks/v-art-19/,True,True
+05-landscapes.html,v-art-20,Kiörboe,Hunting Pictures,assets/artworks/v-art-20/,True,True
+05-landscapes.html,v-art-21,Philippe Rousseau,Still Life with Little Rats,assets/artworks/v-art-21/,True,True
+05-landscapes.html,v-art-22,Béranger,Small Genre Pictures,assets/artworks/v-art-22/,True,True
+05-landscapes.html,v-art-23,Arondel,Heap of Game,assets/artworks/v-art-23/,True,True
+05-landscapes.html,v-art-24,Chazal,Yucca gloriosa,assets/artworks/v-art-24/,True,True
+06-drawings-engravings.html,vi-art-01,Brillouin,Tintoretto Giving a Drawing Lesson to His Daughter,assets/artworks/vi-art-01/,True,True
+06-drawings-engravings.html,vi-art-02,Brillouin,Five Black-Pencil Drawings,assets/artworks/vi-art-02/,True,True
+06-drawings-engravings.html,vi-art-03,Curzon,A Serenade in a Boat,assets/artworks/vi-art-03/,True,True
+06-drawings-engravings.html,vi-art-04,De Rudder,The Shepherd and the Child,assets/artworks/vi-art-04/,True,True
+06-drawings-engravings.html,vi-art-05,Maréchal,The Bunch of Grapes,assets/artworks/vi-art-05/,False,True
+06-drawings-engravings.html,vi-art-06,Tourneux,Work discussed after Maréchal,assets/artworks/vi-art-06/,False,True
+06-drawings-engravings.html,vi-art-07,Pollet,Two Watercolors after Titian,assets/artworks/vi-art-07/,True,True
+06-drawings-engravings.html,vi-art-08,Chabal,Flowers in Gouache,assets/artworks/vi-art-08/,True,True
+06-drawings-engravings.html,vi-art-09,Alphonse Masson,Portrait Drawings,assets/artworks/vi-art-09/,True,True
+06-drawings-engravings.html,vi-art-10,Antonin Moine,Sculptor’s Fantasies / Drawings,assets/artworks/vi-art-10/,True,True
+06-drawings-engravings.html,vi-art-11,Vidal,Drawings,assets/artworks/vi-art-11/,True,True
+06-drawings-engravings.html,vi-art-12,Madame de Mirbel,Miniature Portraits,assets/artworks/vi-art-12/,True,True
+06-drawings-engravings.html,vi-art-13,Ingres / Henriquel-Dupont,Portrait of M. Bertin (engraving after Ingres),assets/artworks/vi-art-13/,True,True
+06-drawings-engravings.html,vi-art-14,Ingres,Portrait of Cherubini,assets/artworks/vi-art-14/,True,True
+06-drawings-engravings.html,vi-art-15,Jacque,Etching shown at the Salon,assets/artworks/vi-art-15/,True,True
+06-drawings-engravings.html,vi-art-16,Jacque after Rembrandt,Reproductions of Rembrandt Etchings,assets/artworks/vi-art-16/,True,True
+07-sculpture.html,vii-art-01,Bartolini,Nymph with a Scorpion,assets/artworks/vii-art-01/,True,True
+07-sculpture.html,vii-art-02,David d’Angers,Child Hanging from a Bunch of Grapes,assets/artworks/vii-art-02/,True,True
+07-sculpture.html,vii-art-03,Bosio,Young Indian Woman,assets/artworks/vii-art-03/,True,True
+07-sculpture.html,vii-art-04,Bosio,Work in the Luxembourg Museum,assets/artworks/vii-art-04/,True,True
+07-sculpture.html,vii-art-05,Bosio,Bust of the Queen,assets/artworks/vii-art-05/,True,True
+07-sculpture.html,vii-art-06,Pradier,Statue praised by Baudelaire,assets/artworks/vii-art-06/,True,True
+07-sculpture.html,vii-art-07,Feuchère,Joan of Arc,assets/artworks/vii-art-07/,True,True
+07-sculpture.html,vii-art-08,Daumas,Maritime Genius,assets/artworks/vii-art-08/,True,True
+07-sculpture.html,vii-art-09,Étex,Hero and Leander,assets/artworks/vii-art-09/,True,True
+07-sculpture.html,vii-art-10,Garraud,Bacchante,assets/artworks/vii-art-10/,True,True
+07-sculpture.html,vii-art-11,Garraud,The First Human Family,assets/artworks/vii-art-11/,True,True
+07-sculpture.html,vii-art-12,Debay,The Primitive Cradle,assets/artworks/vii-art-12/,True,True
+07-sculpture.html,vii-art-13,Cumberworth,Sculpture praised for lines and drapery,assets/artworks/vii-art-13/,True,True
+07-sculpture.html,vii-art-14,Simart,Sculpture compared with Cumberworth,assets/artworks/vii-art-14/,False,True
+07-sculpture.html,vii-art-15,Forceville-Duvette,Sculpture recalling Polyhymnia,assets/artworks/vii-art-15/,True,True
+07-sculpture.html,vii-art-16,Antique / reference,Polyhymnia,assets/artworks/vii-art-16/,True,True
+07-sculpture.html,vii-art-17,Millet,Bacchante,assets/artworks/vii-art-17/,True,True
+07-sculpture.html,vii-art-18,Dantan,Busts,assets/artworks/vii-art-18/,True,True
+07-sculpture.html,vii-art-19,Clésinger,Portrait of the Duke of Nemours,assets/artworks/vii-art-19/,True,True
+07-sculpture.html,vii-art-20,Clésinger,Portrait of Madame Marie de M…,assets/artworks/vii-art-20/,True,True
+07-sculpture.html,vii-art-21,Camagni,Cordelia,assets/artworks/vii-art-21/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-01,Eugène Delacroix,Dante and Virgil in Hell,assets/artworks/1846-05-art-01/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-02,Eugène Delacroix,Scenes from the Massacres at Chios,assets/artworks/1846-05-art-02/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-03,Eugène Delacroix,Greece on the Ruins of Missolonghi,assets/artworks/1846-05-art-03/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-04,Eugène Delacroix,The Death of Sardanapalus,assets/artworks/1846-05-art-04/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-05,Eugène Delacroix,Liberty Leading the People,assets/artworks/1846-05-art-05/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-06,Eugène Delacroix,Women of Algiers in Their Apartment,assets/artworks/1846-05-art-06/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-07,Jean-Auguste-Dominique Ingres,The Martyrdom of Saint Symphorian,assets/artworks/1846-05-art-07/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-08,Eugène Delacroix,Pietà,assets/artworks/1846-05-art-08/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-09,Eugène Delacroix,Christ in the Garden of Olives,assets/artworks/1846-05-art-09/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-10,Eugène Delacroix,Saint Sebastian,assets/artworks/1846-05-art-10/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-11,Jean-Auguste-Dominique Ingres,The Apotheosis of Homer,assets/artworks/1846-05-art-11/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-12,Eugène Delacroix,The Abduction of Rebecca,assets/artworks/1846-05-art-12/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-13,Eugène Delacroix,The Farewell of Romeo and Juliet,assets/artworks/1846-05-art-13/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-14,Eugène Delacroix,Marguerite at Church,assets/artworks/1846-05-art-14/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-15,Eugène Delacroix,Lion,assets/artworks/1846-05-art-15/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-16,Eugène Delacroix,Medea,assets/artworks/1846-05-art-16/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-17,Eugène Delacroix,The Shipwrecked,assets/artworks/1846-05-art-17/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-18,Eugène Delacroix,Hamlet,assets/artworks/1846-05-art-18/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-19,Eugène Delacroix,The Entry of the Crusaders into Constantinople,assets/artworks/1846-05-art-19/,True,True
+1846-05-eugene-delacroix.html,1846-05-art-20,Louis de Planet,Saint Teresa,assets/artworks/1846-05-art-20/,False,True
+1846-05-eugene-delacroix.html,1846-05-art-21,Léger Chérelle,The Martyrdom of Saint Irene,assets/artworks/1846-05-art-21/,False,True
+1846-05-eugene-delacroix.html,1846-05-art-22,Gustave Lassalle-Bordes,The Death of Cleopatra,assets/artworks/1846-05-art-22/,True,True
+1846-06-on-erotic-subjects-in-art-and-on-m-tassaert.html,1846-06-art-01,Antoine Watteau,The Embarkation for Cythera,assets/artworks/1846-06-art-01/,True,True
+1846-06-on-erotic-subjects-in-art-and-on-m-tassaert.html,1846-06-art-02,Octave Tassaert,Erigone,assets/artworks/1846-06-art-02/,True,True
+1846-07-on-some-colourists.html,1846-07-art-01,George Catlin,Little Wolf,assets/artworks/1846-07-art-01/,True,True
+1846-07-on-some-colourists.html,1846-07-art-02,George Catlin,Buffalo Bull’s Back Fat,assets/artworks/1846-07-art-02/,True,True
+1846-07-on-some-colourists.html,1846-07-art-03,Achille Devéria,The Rest of the Holy Family,assets/artworks/1846-07-art-03/,True,True
+1846-07-on-some-colourists.html,1846-07-art-05,François-Hippolyte Debon,Concert in the Studio,assets/artworks/1846-07-art-05/,True,True
+1846-07-on-some-colourists.html,1846-07-art-06,Louis-Noël Duveau,The Day After a Storm,assets/artworks/1846-07-art-06/,False,True
+1846-07-on-some-colourists.html,1846-07-art-07,Alexandre Laemlein,Charity,assets/artworks/1846-07-art-07/,True,True
+1846-07-on-some-colourists.html,1846-07-art-08,Alexandre-Gabriel Decamps,The Punishment of the Hooks,assets/artworks/1846-07-art-08/,True,True
+1846-07-on-some-colourists.html,1846-07-art-09,Alexandre-Gabriel Decamps,Rain Effect,assets/artworks/1846-07-art-09/,True,True
+1846-07-on-some-colourists.html,1846-07-art-10,Alexandre-Gabriel Decamps,The Turkish School,assets/artworks/1846-07-art-10/,True,True
+1846-07-on-some-colourists.html,1846-07-art-11,Octave Penguilly L’Haridon,Pierrot Presents His Companions Harlequin and Punch to the Assembly,assets/artworks/1846-07-art-11/,True,True
+1846-07-on-some-colourists.html,1846-07-art-12,Manzoni,Brawl of the Beggars,assets/artworks/1846-07-art-12/,False,True
+1846-07-on-some-colourists.html,1846-07-art-14,Genaro Pérez Villaamil,Throne Room in Madrid,assets/artworks/1846-07-art-14/,True,True
+1846-07-on-some-colourists.html,1846-07-art-15,Narcisse Virgilio Díaz de la Peña,The Forsaken Women,assets/artworks/1846-07-art-15/,True,True
+1846-07-on-some-colourists.html,1846-07-art-16,Narcisse Virgilio Díaz de la Peña,Garden of Love,assets/artworks/1846-07-art-16/,False,True
+1846-07-on-some-colourists.html,1846-07-art-17,Charles Louis Müller,Primavera,assets/artworks/1846-07-art-17/,True,True
+1846-07-on-some-colourists.html,1846-07-art-18,Faustin Besson,A Summer Day,assets/artworks/1846-07-art-18/,True,True
+1846-07-on-some-colourists.html,1846-07-art-19,Alexandre-Victor Fontaine,The Storm (Béranger),assets/artworks/1846-07-art-19/,False,True
+1846-07-on-some-colourists.html,1846-07-art-23,Adolphe Pierre Leleux,The Spanish Smugglers,assets/artworks/1846-07-art-23/,True,True
+1846-07-on-some-colourists.html,1846-07-art-26,Armand Hubert Simon Leleux,Morning; Interior,assets/artworks/1846-07-art-26/,True,True
+1846-07-on-some-colourists.html,1846-07-art-34,Alexandre Guillemin,The Connoisseurs,assets/artworks/1846-07-art-34/,True,True
+1846-07-on-some-colourists.html,1846-07-art-36,Edmond Hédouin,A Halt (Basses-Pyrénées),assets/artworks/1846-07-art-36/,True,True
+1846-07-on-some-colourists.html,1846-07-art-37,François-Apollinaire-Félix Haffner,Town Interior (Fontarabia),assets/artworks/1846-07-art-37/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-01,Jean-Auguste-Dominique Ingres,Roger Freeing Angelica,assets/artworks/1846-09-art-01/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-02,Jean-Auguste-Dominique Ingres,Odalisques,assets/artworks/1846-09-art-02/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-03,Henri Lehmann,The Daughter of Jephthah Mourning Her Virginity,assets/artworks/1846-09-art-03/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-04,Henri Lehmann,The Oceanids,assets/artworks/1846-09-art-04/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-05,Henri Lehmann,Hamlet,assets/artworks/1846-09-art-05/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-06,Henri Lehmann,Ophelia,assets/artworks/1846-09-art-06/,True,True
+1846-09-some-draughtsmen.html,1846-09-art-07,Louis Janmot,Station — Christ Carrying His Cross,assets/artworks/1846-09-art-07/,False,True
+1846-09-some-draughtsmen.html,1846-09-art-08,Louis-Georges Brillouin,What Young Girls Dream Of,assets/artworks/1846-09-art-08/,False,True
+1846-09-some-draughtsmen.html,1846-09-art-10,Vidal,Self-Love,assets/artworks/1846-09-art-10/,True,True
+1846-10-on-portraiture.html,1846-10-art-01,Peter Paul Rubens,The Straw Hat,assets/artworks/1846-10-art-01/,True,True
+1846-10-on-portraiture.html,1846-10-art-02,Thomas Lawrence,Master Charles William Lambton,assets/artworks/1846-10-art-02/,True,True
+1846-10-on-portraiture.html,1846-10-art-03,Jean-Hippolyte Flandrin,Portrait of Madame Hippolyte Flandrin,assets/artworks/1846-10-art-03/,True,True
+1846-10-on-portraiture.html,1846-10-art-04,Eugène-Emmanuel Amaury-Duval,Portrait of a Woman,assets/artworks/1846-10-art-04/,False,True
+1846-10-on-portraiture.html,1846-10-art-08,Franz Xaver Winterhalter,Full-Length Portrait of the King,assets/artworks/1846-10-art-08/,True,True
+1846-10-on-portraiture.html,1846-10-art-09,Franz Xaver Winterhalter,Full-Length Portrait of the Duchess of Orléans and the Count of Paris,assets/artworks/1846-10-art-09/,True,True
+1846-10-on-portraiture.html,1846-10-art-10,Franz Xaver Winterhalter,Full-Length Portrait of Princess Clémentine,assets/artworks/1846-10-art-10/,True,True
+1846-10-on-portraiture.html,1846-10-art-11,Franz Xaver Winterhalter,Portrait of the Duke of Nemours,assets/artworks/1846-10-art-11/,True,True
+1846-10-on-portraiture.html,1846-10-art-18,Victor Robert,Portrait of M. Granier de Cassagnac,assets/artworks/1846-10-art-18/,False,True
+1846-10-on-portraiture.html,1846-10-art-19,Léon Cogniet,Portrait of M. Granet,assets/artworks/1846-10-art-19/,True,True
+1846-12-m-horace-vernet.html,1846-12-art-01,Jean-Baptiste Jouvenet,The Sellers Driven from the Temple,assets/artworks/1846-12-art-01/,True,True
+1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html,1846-14-art-01,Ary Scheffer,Saint Augustine and Saint Monica,assets/artworks/1846-14-art-01/,True,True
+1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html,1846-14-art-02,Céleste Pensotti,Poor Spinner!,assets/artworks/1846-14-art-02/,False,False
+1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html,1846-14-art-03,Charles Landelle,Today and Tomorrow,assets/artworks/1846-14-art-03/,False,False
+1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html,1846-14-art-04,Henri-Guillaume Schlesinger,The Indiscreet,assets/artworks/1846-14-art-04/,False,False
+1846-14-on-m-ary-scheffer-and-the-apes-of-sentiment.html,1846-14-art-06,Charles Richard,The Life of a Young Girl,assets/artworks/1846-14-art-06/,False,False
+1846-15-on-some-doubters.html,1846-15-art-01,Dominique Papety,Solon Dictating His Laws,assets/artworks/1846-15-art-01/,True,True
+1846-15-on-some-doubters.html,1846-15-art-02,Auguste-Barthélemy Glaize,The Blood of Venus,assets/artworks/1846-15-art-02/,True,True
+1846-15-on-some-doubters.html,1846-15-art-03,Paul Chenavard and Comairas,The Martyrdom of Saint Polycarp,assets/artworks/1846-15-art-03/,True,True
+1846-15-on-some-doubters.html,1846-15-art-04,Adrien Guignet,The Condottieri after a Pillage,assets/artworks/1846-15-art-04/,False,True
+1846-15-on-some-doubters.html,1846-15-art-05,Adrien Guignet,Xerxes,assets/artworks/1846-15-art-05/,True,True
+1846-15-on-some-doubters.html,1846-15-art-06,Adrien Guignet,The Pharaohs,assets/artworks/1846-15-art-06/,True,True
+1846-15-on-some-doubters.html,1846-15-art-07,Jean Gigoux,The Marriage of the Virgin,assets/artworks/1846-15-art-07/,True,True
+1846-15-on-some-doubters.html,1846-15-art-08,Bard,Charon’s Boat,assets/artworks/1846-15-art-08/,True,True
+1846-16-on-landscape.html,1846-16-art-01,Jean-Baptiste-Camille Corot,View in the Forest of Fontainebleau,assets/artworks/1846-16-art-01/,True,True
+1846-16-on-landscape.html,1846-16-art-02,Théodore Caruelle d’Aligny,Views of Corinth and Athens,assets/artworks/1846-16-art-02/,True,True
+1846-16-on-landscape.html,1846-16-art-03,François-Louis Français,Study at Saint-Cloud,assets/artworks/1846-16-art-03/,True,True
+1846-16-on-landscape.html,1846-16-art-04,Auguste Borget,"View of Nossa Senhora da Glória, Rio de Janeiro",assets/artworks/1846-16-art-04/,True,True
+1846-16-on-landscape.html,1846-16-art-08,Auguste Borget,Banks of the Hooghly (Bengal),assets/artworks/1846-16-art-08/,True,True
+1846-16-on-landscape.html,1846-16-art-09,Auguste Borget,Dwelling of a Fakir on the Banks of the Ganges,assets/artworks/1846-16-art-09/,True,True
+1846-16-on-landscape.html,1846-16-art-12,Henri de Chacaton,Departure of a Caravan; Memory of Syria,assets/artworks/1846-16-art-12/,True,True
+1846-16-on-landscape.html,1846-16-art-15,Théodore Gudin,Combat of a French Ship against Four English Ships (1655),assets/artworks/1846-16-art-15/,True,True
+1846-16-on-landscape.html,1846-16-art-16,Théodore Gudin,Naval Battle of La Goulette (24 June 1665),assets/artworks/1846-16-art-16/,True,True
+1846-16-on-landscape.html,1846-16-art-17,Théodore Gudin,Naval Battle between Nevis and Redonda (1667),assets/artworks/1846-16-art-17/,True,True
+1846-16-on-landscape.html,1846-16-art-18,Théodore Gudin,Naval Battle of Texel (21 August 1673),assets/artworks/1846-16-art-18/,True,True
+1846-16-on-landscape.html,1846-16-art-19,Théodore Gudin,Battle of Martinique (21 August 1674),assets/artworks/1846-16-art-19/,True,True
+1846-16-on-landscape.html,1846-16-art-21,Charles-Frédéric Kiörboe,Wolf Trap,assets/artworks/1846-16-art-21/,False,True
+1846-17-why-sculpture-is-tiresome.html,1846-17-art-01,Charles Cumberworth,Marie,assets/artworks/1846-17-art-01/,True,True
+1846-17-why-sculpture-is-tiresome.html,1846-17-art-02,James Pradier,Light Poetry,assets/artworks/1846-17-art-02/,True,True
+1846-17-why-sculpture-is-tiresome.html,1846-17-art-03,James Pradier,Anacreon,assets/artworks/1846-17-art-03/,True,True
+1846-17-why-sculpture-is-tiresome.html,1846-17-art-04,James Pradier,Wisdom,assets/artworks/1846-17-art-04/,True,True

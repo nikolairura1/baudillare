@@ -1,8 +1,0 @@
-title: The Mirror of Art
-description: Charles Baudelaire's art criticism with artworks restored to context
-baseurl: ""
-url: ""
-markdown: kramdown
-permalink: pretty
-exclude:
-  - README.md
